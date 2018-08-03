@@ -1,0 +1,21 @@
+body {
+    background: #e2e3e8;
+    font-family: 'Nunito', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Nunito', sans-serif;
+}
+
+.mt-10 {
+    margin-top: 100px;
+}
+
+.rounded-8 {
+    border-radius: 8px;
+}
