@@ -19,3 +19,28 @@ h6 {
 .rounded-8 {
     border-radius: 8px;
 }
+
+input {
+    border-radius: 0;
+    border: 0;
+    border-bottom: 2px solid #bec2cb;
+    outline: 0;
+}
+
+input:focus {
+    border-bottom: 2px solid #095df3;
+}
+
+input:not(:placeholder-shown) {
+    color: #095df3;
+    border-bottom: 2px solid #095df3;
+}
+
+.btn-blue {
+    color: white;
+    background: #095df3;
+}
+
+.btn-blue:hover {
+    background: #0956df;
+}
