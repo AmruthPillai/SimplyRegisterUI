@@ -20,8 +20,13 @@ h6 {
     border-radius: 8px;
 }
 
+.text-blue {
+    color: #0847b8;
+}
+
 input {
-    border-radius: 0;
+    font-weight: bold;
+    letter-spacing: .05em;
     border: 0;
     border-bottom: 2px solid #bec2cb;
     outline: 0;
@@ -32,8 +37,8 @@ input:focus {
 }
 
 input:not(:placeholder-shown) {
-    color: #095df3;
-    border-bottom: 2px solid #095df3;
+    color: #03006b;
+    border-bottom: 2px solid #03006b;
 }
 
 .btn-blue {
@@ -42,5 +47,5 @@ input:not(:placeholder-shown) {
 }
 
 .btn-blue:hover {
-    background: #0956df;
+    background: #0847b8;
 }
