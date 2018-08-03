@@ -1,9 +1,7 @@
 # Simply Register UI Component
 
 ## Screenshots
-<img src="./assets/step1.png" width="300px">
-<img src="./assets/step2.png" width="300px">
-<img src="./assets/step3.png" width="300px">
+<img src="./assets/step1.png" width="250px"><img src="./assets/step2.png" width="250px"><img src="./assets/step3.png" width="250px">
 
 ## Technologies
 * HTML, CSS, jQuery
